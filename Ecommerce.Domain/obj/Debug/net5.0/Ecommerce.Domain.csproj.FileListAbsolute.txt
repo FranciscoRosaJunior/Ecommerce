@@ -1,0 +1,15 @@
+C:\Users\Ivory\source\repos\Ecommerc\Ecommerce.Domain\bin\Debug\net5.0\Ecommerce.Domain.deps.json
+C:\Users\Ivory\source\repos\Ecommerc\Ecommerce.Domain\bin\Debug\net5.0\Ecommerce.Domain.dll
+C:\Users\Ivory\source\repos\Ecommerc\Ecommerce.Domain\bin\Debug\net5.0\Ecommerce.Domain.pdb
+C:\Users\Ivory\source\repos\Ecommerc\Ecommerce.Domain\obj\Debug\net5.0\Ecommerce.Domain.csproj.AssemblyReference.cache
+C:\Users\Ivory\source\repos\Ecommerc\Ecommerce.Domain\obj\Debug\net5.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivory\source\repos\Ecommerc\Ecommerce.Domain\obj\Debug\net5.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\Ivory\source\repos\Ecommerc\Ecommerce.Domain\obj\Debug\net5.0\Ecommerce.Domain.AssemblyInfo.cs
+C:\Users\Ivory\source\repos\Ecommerc\Ecommerce.Domain\obj\Debug\net5.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ivory\source\repos\Ecommerc\Ecommerce.Domain\obj\Debug\net5.0\Ecommerce.Domain.dll
+C:\Users\Ivory\source\repos\Ecommerc\Ecommerce.Domain\obj\Debug\net5.0\ref\Ecommerce.Domain.dll
+C:\Users\Ivory\source\repos\Ecommerc\Ecommerce.Domain\obj\Debug\net5.0\Ecommerce.Domain.pdb
+C:\Users\Ivory\source\repos\Ecommerc\Ecommerce.Domain\bin\Debug\net5.0\Ecommerce.Domain.runtimeconfig.json
+C:\Users\Ivory\source\repos\Ecommerc\Ecommerce.Domain\bin\Debug\net5.0\Ecommerce.Domain.runtimeconfig.dev.json
+C:\Users\Ivory\source\repos\Ecommerc\Ecommerce.Domain\obj\Debug\net5.0\Ecommerce.Domain.genruntimeconfig.cache
+C:\Users\Ivory\source\repos\Ecommerc\Ecommerce.Domain\bin\Debug\net5.0\ref\Ecommerce.Domain.dll
